@@ -68,7 +68,7 @@ p.lead {
     }
 
     .social-icons a:hover {
-        background-color: #2792B9
+        background-color: #109fd3b0
     }
 
 .dev-icons {
@@ -76,7 +76,7 @@ p.lead {
 }
 
     .dev-icons .list-inline-item i:hover {
-        color: #2792B9
+        color: #2abbbbd5
     }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -163,7 +163,7 @@ section.resume-section {
 }
 
 .bg-primary {
-    background-color: #2792B9 !important
+    background-color: #408688 !important
 }
 
 .text-primary {
@@ -192,7 +192,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Saira Extra Condensed',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
     font-weight: 700;
     text-transform: uppercase;
-    color: #009933
+    color: #c457c4
 }
 
 h1 {
@@ -224,7 +224,7 @@ p.lead {
     display: inline-block;
     height: 3.5rem;
     width: 3.5rem;
-    background-color: #495057;
+    background-color: #0c6fd3;
     color: #fff !important;
     border-radius: 100%;
     text-align: center;
@@ -238,7 +238,7 @@ p.lead {
     }
 
     .social-icons a:hover {
-        background-color: #2792B9
+        background-color: #dde021
     }
 
 .dev-icons {
@@ -246,7 +246,7 @@ p.lead {
 }
 
     .dev-icons .list-inline-item i:hover {
-        color: #2792B9
+        color: #7c424fde
     }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -333,17 +333,17 @@ section.resume-section {
 }
 
 .bg-primary {
-    background-color: #666633 !important
+    background-color: #b96a46 !important
 }
 
 .text-primary {
-    color: #2792B9 !important
+    color: #24be90b0 !important
 }
 
 a {
-    color: #2792B9
+    color: #24be90b0
 }
 
     a:active, a:focus, a:hover {
-        color: #2792B9
+        color: #24be90b0
     }
